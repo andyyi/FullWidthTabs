@@ -5,7 +5,9 @@ Blueprint: Responsive Full Width Tabs
 
 [article on Codrops](http://tympanus.net/codrops/?p=18521)
 
-[demo](http://tympanus.net/Blueprints/FullWidthTabs/)
+[Demo 1](http://tympanus.net/Blueprints/FullWidthTabs/)
+
+[Demo 2](http://tympanus.net/codrops/2014/03/21/responsive-full-width-tabs/)
 
 The Blueprints are a collection of basic and minimal website concepts, components, plugins and layouts with minimal style for easy adaption and usage, or simply for inspiration.
 Check out all of our Blueprints [here](http://tympanus.net/codrops/category/blueprints/)
